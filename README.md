@@ -110,10 +110,10 @@ Ensure you have the following installed:
 
 ## **Team Members**
 
-- **Blair**  
-- **Niharika**  
-- **Renita** 
-- **Subashree**  
+- **Blair Jones**  
+- **Niharika Narasimhiah Govinda**  
+- **Renita Blessina Sathiaraj** 
+- **Subashree Dinesh**  
  
 
 
